@@ -1,0 +1,47 @@
+h1 {
+    color: rgb(255, 106, 0);
+    text-align: center;
+}
+
+h2 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+p {
+    color: rgb(255, 255, 255);
+    font-family: 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    background-color: rgb(0, 0, 0);
+    font-size: 15px;
+    text-align: center;
+
+}
+    #ha{
+  
+      background-color: rgb(255, 106, 0);
+      padding: 10px;
+      margin-left: 40%;
+      margin-right: 40%;
+      border-radius: 25%;
+}
+
+.titulo{
+    font-weight: 100;
+
+      }
+      
+
+.imagemCaio{
+    border-radius: 50%;
+    background-color: rgb(255, 106, 0);
+    padding: 5px;
+
+}
+
+.FRASE{
+    float: right;
+    margin-right: 100px;
+}
